@@ -1,1 +1,3 @@
 # human_single_cell_blood_flow
+
+This code is associated with the paper from Raghavendra et al., "Measurement of retinal blood flow precision in the human eye with multimodal adaptive optics imaging". BOE, 2024. https://doi.org/10.1364/BOE.524944. Made available here is an analysis pipeline for measuring single-cell velocity of blood cells from space-time images captured with an adaptive optics scanning light ophthalmoscope (AOSLO). For questions, please contact Achyut Raghavendra (achyut.raghavendra@fda.hhs.gov). If you find this code useful, please cite our paper: Raghavendra, Achyut J., et al. "Measurement of retinal blood flow precision in the human eye with multimodal adaptive optics imaging." Biomedical Optics Express 15.8 (2024): 4625-4641.
